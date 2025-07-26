@@ -1,4 +1,4 @@
-# Day02 - Terraform Providers
+ok # Day02 - Terraform Providers
 
 ## What is a terraform provider?
 
